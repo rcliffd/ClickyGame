@@ -1,0 +1,20 @@
+.footer {
+    background:#2a4d6e;
+    height:100px;
+    position:relative;
+    overflow:auto;
+}
+
+.footer>.bottom {
+    position:absolute;
+    bottom:0;
+    left:0;
+    right:0;
+    background:#133353;
+    padding:8px;
+    font-weight:600;
+}
+
+.footer>.bottom>img {
+    width:20px;
+}

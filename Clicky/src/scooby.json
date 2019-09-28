@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Afraid",
+    "url": "./images/Afraid.jpg",
+    "type": "image/jpg"
+  },
+  {
+    "id": 2,
+    "title": "amireal",
+    "url": "./images/amireal.jpg",
+    "type": "image/jpg"
+  },
+  {
+    "id": 3,
+    "title": "concerned",
+    "url": "./images/concerned.jpg",
+    "type": "image/jpg"
+  },
+  {
+    "id": 4,
+    "title": "Dog",
+    "url": "./images/Dog.jpg",
+    "type": "image/jpg"
+  },
+  {
+    "id": 5,
+    "title": "Figureout",
+    "url": "./images/Figureout.jpg",
+    "type": "image/jpg"
+  },
+  {
+    "id": 6,
+    "title": "ghost",
+    "url": "./images/ghost.jpg",
+    "type": "image/jpg"
+  },
+  {
+    "id": 7,
+    "title": "Happy",
+    "url": "./images/Happy.jpg",
+    "type": "image/jpg"
+  },
+  {
+    "id": 8,
+    "title": "hesreallygone",
+    "url": "./images/hesreallygone.jpg",
+    "type": "image/jpg"
+  },
+  {
+    "id": 9,
+    "title": "heyitsallgood",
+    "url": "./images/heyitsallgood.jpg",
+    "type": "image/jpg"
+  },
+  {
+    "id": 10,
+    "title": "isthatme",
+    "url": "./images/isthatme.jpg",
+    "type": "image/jpg"
+  },
+  {
+    "id": 11,
+    "title": "itsaboutthattime",
+    "url": "./images/itsaboutthattime.jpg",
+    "type": "image/jpg"
+  },
+  {
+    "id": 12,
+    "title": "letsgetoutofhere",
+    "url": "./images/letsgetoutofhere.jpg",
+    "type": "image/jpg"
+  }
+]

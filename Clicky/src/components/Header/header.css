@@ -1,0 +1,20 @@
+.header-sect {
+  background: url("%PUBLIC_URL%/images.jpg") no-repeat cover fixed;
+  /* background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; */
+  min-height: 400px;
+}
+
+.dark-overlay {
+  /* position: absolute; */
+  top: 0;
+  left: 0;
+  width: 100%;
+  min-height: 400px;
+  background: rgba(0, 0, 0, 0.7);
+}
+
+.header-inner {
+  padding-top: 115px;
+}
